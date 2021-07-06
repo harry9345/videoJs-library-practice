@@ -1,0 +1,11 @@
+.video-js .vjs-control-bar {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+#instructions {
+  max-width: 640px;
+  text-align: left;
+  margin: 30px auto;
+}
